@@ -167,7 +167,7 @@ PortManager/
 
 ### 🐛 报告问题
 
-- 使用[Issues](https://github.com/yourusername/PortManager/issues)报告 bug
+- 使用[Issues](https://github.com/linyshdhhcb/port-manager/issues)报告 bug
 - 提供详细的错误信息和复现步骤
 
 ### 💡 功能建议
