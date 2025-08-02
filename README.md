@@ -59,8 +59,8 @@
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/yourusername/PortManager.git
-cd PortManager
+git clone https://github.com/linyshdhhcb/port-manager.git
+cd port-manager
 ```
 
 2. **编译项目**
