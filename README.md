@@ -186,6 +186,6 @@ PortManager/
 
 ## 📞 联系方式
 
-- **项目主页**: [GitHub Repository](https://github.com/yourusername/PortManager)
-- **问题反馈**: [Issues](https://github.com/yourusername/PortManager/issues)
+- **项目主页**: [GitHub Repository](https://github.com/linyshdhhcb/port-manager)
+- **问题反馈**: [Issues](https://github.com/linyshdhhcb/port-manager/issues)
 - **邮箱**: jingshuihuayue@qq.com
